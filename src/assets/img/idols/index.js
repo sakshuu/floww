@@ -1,0 +1,6 @@
+export {default as bappa } from "./bappa.webp"
+export {default as dancing_ganesha } from "./dancing_ganesha.webp"
+export {default as adiyogi_shiva } from "./adiyogi_shiva.webp"
+export {default as tirupatibalaji } from "./tirupatibalaji.webp"
+export {default as marble_ram } from "./marble_ram.webp"
+export {default as golden_grace_krishna } from "./golden_grace_krishna.webp"

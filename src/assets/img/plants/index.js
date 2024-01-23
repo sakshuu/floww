@@ -1,0 +1,6 @@
+export {default as plant} from "./plant.webp"
+export {default as jade_plant} from "./jade_plant.webp"
+export {default as money_plant} from "./money_plant.webp"
+export {default as combo_bliss} from "./combo_bliss.webp"
+export {default as pink_plant} from "./pink_plant.webp"
+export {default as hoya_red} from "./hoya_red.webp"

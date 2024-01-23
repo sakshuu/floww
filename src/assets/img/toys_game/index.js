@@ -1,0 +1,6 @@
+export {default as softToy } from "./softToy.webp"
+export {default as soft_plush } from "./soft_plush.webp"
+export {default as alphabets } from "./alphabets.webp"
+export {default as countdown } from "./countdown.jpg"
+export {default as coco_bunny } from "./coco_bunny.webp"
+export {default as tortoise } from "./tortoise.webp"
