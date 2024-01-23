@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Hind', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    font-family: 'Yantramanav', sans-serif;
+    background-color:rgb(222, 207, 217) !important;
+}
+.card-main{
+    background-color: whitesmoke !important;
+ max-width: 200% !important; 
+ min-height: 30% !important;  
+ margin-bottom: 25px !important;
+ margin-top: 15px !important;
+}
+.card-header{
+    background-color:rgb(242, 235, 241) !important;
+}
+.picGallery{
+    min-width: 20%;
+}
